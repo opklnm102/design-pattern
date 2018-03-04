@@ -1,0 +1,5 @@
+.DS_Store
+
+# strategy
+strategy/out/
+strategy/.idea/
