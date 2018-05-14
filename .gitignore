@@ -3,3 +3,7 @@
 # strategy
 strategy/out/
 strategy/.idea/
+
+# lazy-loading
+lazy-loading/out/
+lazy-loading/.idea/
