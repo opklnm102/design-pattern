@@ -1,4 +1,5 @@
 .DS_Store
+.idea/
 
 # strategy
 strategy/out/
@@ -7,3 +8,11 @@ strategy/.idea/
 # lazy-loading
 lazy-loading/out/
 lazy-loading/.idea/
+
+# data-transfer-object
+data-transfer-object/out/
+data-transfer-object/.idea/
+
+# null-object
+null-object/out/
+null-object/.idea/
